@@ -1,13 +1,5 @@
-# Sample Hardhat Project
+NFT Mint Website with HardHat
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+A static landing page for a fictitious NFT project.
+It uses a Solidity NFT contract, a typescrypt test for it and then a deployment.
+Opening the console in the live project will show you the transaction hash for the mint.
